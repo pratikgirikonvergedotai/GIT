@@ -7,7 +7,8 @@ we can also use "git add index.html" for above as it is only one file
 
 git commmit -m "first message" |  commited with a commit message
 
-git push -u origin main | push file from git to github . the -u (upstream remote) flag links it to the remote repo
+git push -u origin main | push file from git to github . the -u (upstream remote) flag links it to the remote repo 
+also if we use -u  flag it will push changes to main beanch everytime as now main branch is setup as default branch for new push 
 
 logged in with github credentails for first time via browser.
 
