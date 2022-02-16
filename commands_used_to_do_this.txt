@@ -11,3 +11,4 @@ git push -u origin main | push file from git to github . the -u (upstream remote
 
 logged in with github credentails for first time via browser.
 
+git status to see the status of files 
