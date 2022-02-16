@@ -1,0 +1,8 @@
+first generated sshkey with ssh-keygen command 
+
+
+copied public key and stored on github .
+used git clone "repo link from ssh tab"
+
+the public and private were stored in users/user/.ssh
+public key had .pub extention 
