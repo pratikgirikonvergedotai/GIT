@@ -1,0 +1,11 @@
+git reset | to uncommit
+
+git reset HEAD | HEAD represents recent commit 
+
+git reset HEAD~1 | HEAD~1 represents one commit lower the recent commit
+
+git log | shows all commits
+
+git reset [hash value/id]
+
+git reset --hard [hash value/id]
