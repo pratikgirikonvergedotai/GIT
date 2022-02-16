@@ -1,0 +1,13 @@
+git clone | cloned the repo 
+
+
+git add .  |  added everything that was untracked 
+
+we can also use "git add index.html" for above as it is only one file 
+
+git commmit -m "first message" |  commited with a commit message
+
+git push -u origin main | push file from git to github . the -u (upstream remote) flag links it to the remote repo
+
+logged in with github credentails for first time via browser.
+
