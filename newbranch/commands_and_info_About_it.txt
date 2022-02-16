@@ -1,0 +1,35 @@
+git branch | used to see branches and the star tells which branch we are currently on 
+
+git checkout | to change the branch 
+
+git checkout -b new_branch | -b flag is used for creating new branch 
+
+after changing the contents of file
+
+we can push the new content to github then we have to make a pull request
+
+pull request is used to review changes and see if it has some problems with the main branch contents
+
+if there are no such problems . merge the two .
+
+we can view the different branches on github too
+
+git merge (for mereging code on local)
+
+git diff (for watching chamges on local)
+
+we can update our local main branch 
+
+by using git pull origin main
+
+git branch -d for deleting branch 
+
+
+for existing files on branch if we modify it 
+
+we can use git commit -am 
+
+which means we are adding and commiting at the same time 
+
+but this only works for pre existing files 
+
