@@ -13,3 +13,4 @@ also if we use -u  flag it will push changes to main beanch everytime as now mai
 logged in with github credentails for first time via browser.
 
 git status to see the status of files 
+git push (after using -u flag)
